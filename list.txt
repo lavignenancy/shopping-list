@@ -7,5 +7,10 @@ Cookies
 Biscuits
 Fanta
 2k
+Candies
+Waffles
+Popcorn
+Cakes
+
 
 
